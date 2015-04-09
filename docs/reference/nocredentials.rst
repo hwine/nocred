@@ -1,0 +1,5 @@
+nocredentials
+=============================
+
+.. automodule:: nocredentials
+    :members:
